@@ -2,9 +2,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
-
-
 class Solution {
   public:
     int findPosition(int N , int M , int K) {
